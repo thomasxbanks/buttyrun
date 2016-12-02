@@ -70,7 +70,9 @@ This decoupling of the idea of 'shared ingredients' will allow for this software
 ## What do I need to define?
 
 1. What is a company?
+  - A company is a group of individuals sharing a commonality (place of employment)
 1. What is an individual?
+  - An individual is a member of a company with a product associated to them (default sammich)
 
 ## What do I need to know about these?
 1. Company
@@ -79,3 +81,15 @@ This decoupling of the idea of 'shared ingredients' will allow for this software
 1. Individual
  - Company they are attached to
  - Sandwich they want
+ - Whether they are the 'orderer' or the 'purchaser'
+
+______
+
+## First Steps
+I need to...
+1. create a company
+1. create several individuals
+1. add a product to each individual
+1. generate a push notification at a specified time to all 'purchaser'
+1. allow a response from each 'purchaser'
+1. generate a list of individuals that responded 'yes' and display it to the 'orderer'
