@@ -1,7 +1,6 @@
 # Production Notes
 
 ## The Purpose
-
 The idea behind this software is to make the regular ordering of the Friday Butty Run easier to manage.
 
 ### The current process
@@ -20,11 +19,22 @@ The idea behind this software is to make the regular ordering of the Friday Butt
 1. Using a note-taking app, such as Google Keep to make notes or just checking email/slack/texts whilst ordering in the shop
 
 ### How can we make this better?
-The idea behind this is to create a centralised communication method that also stores a purchaser's preferred butty and allows a simple one-tap 'geg in on this run' response method. How I envisage it working is that, for the purchaser, they get a push notification at 8.30 on a Friday asking if they want in on the run. Select _yes_ to order the same thing as last time, select _no_ to opt out, select _change_ to order a different butty. The person in the shop then has a list of the people who have opted in with their selection in one place.
+The idea behind this is to create a centralised communication method that also stores a purchaser's preferred butty and allows a simple one-tap 'geg in on this run' response method. How I envisage it working is that, for the purchaser, they get a push notification at, say, 8.30 on a Friday asking if they want in on the run. Select _yes_ to order the same thing as last time, select _no_ to opt out, select _change_ to order a different butty. The person in the shop then has a list of the people who have opted in with their selection in one place.
+
+### How does this solve the problem?
+1. Storing your preferred option against your details greatly reduces the chance of making a mistake in ordering.
+1. The one-tap opt-in greatly improves a person's chances of being included
+1. The push notification greatly improves a person's chances of being included
+
+### Does this introduce any new problems?
+1. It does not completely solve the issue of centralised communication.
+  - Everyone needs to have the software and have notifications set up to be included. This may lead to some people still being excluded because they do not want to install an app. Potentially merely _adding_ to the breadth of communication methods!
+1. There could still be issues around payments and pricing. The orderer will still be charged, say, £15.75 by the shop and have to work out that Carol needs to reimburse him £3.20. This could be addressed in a variety of ways and, as such, is worth investigating further as it seems to be a key issue in the original process.
 
 ### Extensions
-By replacing __butty__ with __brew__ would allow this to work for regular brew runs. Whoever is going to make the drinks sends a push notification, everyone else opts-in or opts-out and the brew-maker gets a list of who wants what - no more forgetting if Janet takes sugar or accidentally putting milk in Thom's coffee!
+By replacing __butty__ with __brew__ would allow this to work for regular brew runs. Whoever is going to make the drinks/buy the drinks from Starbucks sends a timely push notification, everyone else opts-in or opts-out and the brew-maker gets a list of who wants what - no more forgetting if Janet takes sugar or accidentally putting milk in Thom's coffee!
 
+______
 
 ## Hierarchy of data
 
