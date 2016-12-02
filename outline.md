@@ -11,7 +11,7 @@ The idea behind this software is to make the regular ordering of the Friday Butt
 ### Issues with the current process
 1. No centralised communication method.
 1. Relies on either the organiser remembering what each person wants from the last order or asking everyone what they want each time.
-1. Relies on either getting a receipt from the shop (and really, how many bacon butty shops do receipts?!) or remembering what each sandwich cost and getting the right money from each purchaser.
+1. Relies on either getting an itemised receipt from the shop (and really, how many bacon butty shops do receipts?!) or remembering what each sandwich cost and getting the right money from each purchaser.
 1. Leads to mistakes in sandwich make up.
 1. Leads to people not replying in time (if the orderer doesn't have their mobile number, etc.) and not getting a butty if they want one.
 
@@ -93,3 +93,17 @@ I need to...
 1. generate a push notification at a specified time to all 'purchaser'
 1. allow a response from each 'purchaser'
 1. generate a list of individuals that responded 'yes' and display it to the 'orderer'
+
+## Brand Identity
+Things to consider in regards to design
+- __Fonts__
+  - Must be readable on a variety of screen sizes and resolutions
+- __Colours__
+  -  No thoughts on colours at the moment. Ideally, neutral as we will have little to no control of imagery (see below)
+- __Design__
+  - As the product is very light on content, we can be a bit more adventurous.
+  - Simplistic data representation leaves room for "wow factor" to be introduced by design.
+- __Imagery__
+  - The intention is that users will import their own avatars (if we even have avatars!)
+  - If we eventually tie this in to catering companies, their imagery will be used. Again we'll have zero control.
+  - Very little, if any, other imagery to exist in the app.
